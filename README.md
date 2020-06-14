@@ -28,7 +28,7 @@ and to fixed / trainable random initialized embeddings.
 - Word
 - Word + Character
 - Word + Character + PoS
-- Word + Pos
+- Word + PoS
 
 
 ## Dependencies
