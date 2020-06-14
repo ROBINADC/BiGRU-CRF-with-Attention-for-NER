@@ -1,0 +1,701 @@
+Sentence,NER
+-docstart-,O
+cricket - leicestershire take over at top after innings victory .,O O I-ORG O O O O O O O O
+london 1996-08-30,I-LOC O
+west indian all-rounder phil simmons took four for 38 on friday as leicestershire beat somerset by an innings and 39 runs in two days to take over at the head of the county championship .,I-MISC I-MISC O I-PER I-PER O O O O O O O I-ORG O I-ORG O O O O O O O O O O O O O O O O O O O O
+"their stay on top , though , may be short-lived as title rivals essex , derbyshire and surrey all closed in on victory while kent made up for lost time in their rain-affected match against nottinghamshire .",O O O O O O O O O O O O O I-ORG O I-ORG O I-ORG O O O O O O I-ORG O O O O O O O O O O I-ORG O
+"after bowling somerset out for 83 on the opening morning at grace road , leicestershire extended their first innings by 94 runs before being bowled out for 296 with england discard andy caddick taking three for 83 .",O O I-ORG O O O O O O O O I-LOC I-LOC O I-ORG O O O O O O O O O O O O O O I-LOC O I-PER I-PER O O O O O
+"trailing by 213 , somerset got a solid start to their second innings before simmons stepped in to bundle them out for 174 .",O O O O I-ORG O O O O O O O O O I-PER O O O O O O O O O
+"essex , however , look certain to regain their top spot after nasser hussain and peter such gave them a firm grip on their match against yorkshire at headingley .",I-ORG O O O O O O O O O O O I-PER I-PER O I-PER I-PER O O O O O O O O O I-ORG O I-LOC O
+"hussain , considered surplus to england 's one-day requirements , struck 158 , his first championship century of the season , as essex reached 372 and took a first innings lead of 82 .",I-PER O O O O I-LOC O O O O O O O O O O O O O O O O I-ORG O O O O O O O O O O O
+"by the close yorkshire had turned that into a 37-run advantage but off-spinner such had scuttled their hopes , taking four for 24 in 48 balls and leaving them hanging on 119 for five and praying for rain .",O O O I-ORG O O O O O O O O O I-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+"at the oval , surrey captain chris lewis , another man dumped by england , continued to silence his critics as he followed his four for 45 on thursday with 80 not out on friday in the match against warwickshire .",O O I-LOC O I-ORG O I-PER I-PER O O O O O I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O I-ORG O
+"he was well backed by england hopeful mark butcher who made 70 as surrey closed on 429 for seven , a lead of 234 .",O O O O O I-LOC O I-PER I-PER O O O O I-ORG O O O O O O O O O O O
+"derbyshire kept up the hunt for their first championship title since 1936 by reducing worcestershire to 133 for five in their second innings , still 100 runs away from avoiding an innings defeat .",I-ORG O O O O O O O O O O O O O I-ORG O O O O O O O O O O O O O O O O O O O
+"australian tom moody took six for 82 but chris adams , 123 , and tim o'gorman , 109 , took derbyshire to 471 and a first innings lead of 233 .",I-MISC I-PER I-PER O O O O O I-PER I-PER O O O O I-PER I-PER O O O O I-ORG O O O O O O O O O O
+"after the frustration of seeing the opening day of their match badly affected by the weather , kent stepped up a gear to dismiss nottinghamshire for 214 .",O O O O O O O O O O O O O O O O O I-ORG O O O O O O I-ORG O O O
+they were held up by a gritty 84 from paul johnson but ex-england fast bowler martin mccague took four for 55 .,O O O O O O O O O I-PER I-PER O I-MISC O O I-PER I-PER O O O O O
+by stumps kent had reached 108 for three .,O O I-ORG O O O O O O
+-docstart-,O
+cricket - english county championship scores .,O O I-MISC I-MISC I-MISC O O
+london 1996-08-30,I-LOC O
+result and close of play scores in english county championship matches on friday :,O O O O O O O I-MISC O O O O O O
+leicester : leicestershire beat somerset by an innings and 39 runs .,I-LOC O I-ORG O I-ORG O O O O O O O
+"somerset 83 and 174 ( p. simmons 4-38 ) , leicestershire 296 .",I-ORG O O O O I-PER I-PER O O O I-ORG O O
+"leicestershire 22 points , somerset 4 .",I-ORG O O O I-ORG O O
+"chester-le-street : glamorgan 259 and 207 ( a. dale 69 , h. morris 69 ; d. blenkiron 4-43 ) , durham 114 ( s. watkin 4-28 ) and 81-3 .",I-LOC O I-ORG O O O O I-PER I-PER O O I-PER I-PER O O I-PER I-PER O O O I-ORG O O I-PER I-PER O O O O O
+"tunbridge wells : nottinghamshire 214 ( p. johnson 84 ; m. mccague 4-55 ) , kent 108-3 .",I-LOC I-LOC O I-ORG O O I-PER I-PER O O I-PER I-PER O O O I-ORG O O
+"london ( the oval ) : warwickshire 195 , surrey 429-7 ( c. lewis 80 not out , m. butcher 70 , g. kersey 63 , j. ratcliffe 63 , d. bicknell 55 ) .",I-LOC O I-LOC I-LOC O O I-ORG O O I-ORG O O I-PER I-PER O O O O I-PER I-PER O O I-PER I-PER O O I-PER I-PER O O I-PER I-PER O O O
+"hove : sussex 363 ( w. athey 111 , v. drakes 52 ; i. austin 4-37 ) , lancashire 197-8 ( w. hegg 54 )",I-LOC O I-ORG O O I-PER I-PER O O I-PER I-PER O O I-PER I-PER O O O I-ORG O O I-PER I-PER O O
+"portsmouth : middlesex 199 and 426 ( j. pooley 111 , m. ramprakash 108 , m. gatting 83 ) , hampshire 232 and 109-5 .",I-LOC O I-ORG O O O O I-PER I-PER O O I-PER I-PER O O I-PER I-PER O O O I-ORG O O O O
+"chesterfield : worcestershire 238 and 133-5 , derbyshire 471 ( j. adams 123 , t.o'gorman 109 not out , k. barnett 87 ; t. moody 6-82 )",I-LOC O I-ORG O O O O I-ORG O O I-PER I-PER O O I-PER O O O O I-PER I-PER O O I-PER I-PER O O
+"bristol : gloucestershire 183 and 185-6 ( j. russell 56 not out ) , northamptonshire 190 ( k. curran 52 ; a. smith 5-68 ) .",I-LOC O I-ORG O O O O I-PER I-PER O O O O O I-ORG O O I-PER I-PER O O I-PER I-PER O O O
+-docstart-,O
+cricket - 1997 ashes intinerary .,O O O I-MISC O O
+london 1996-08-30,I-LOC O
+australia will defend the ashes in,I-LOC O O O I-MISC O
+a six-test series against england during a four-month tour,O O O O I-LOC O O O O
+"starting on may 13 next year , the test and county cricket board",O O O O O O O O I-ORG I-ORG I-ORG I-ORG I-ORG
+said on friday .,O O O O
+australia will also play three one-day internationals and,I-LOC O O O O O O O
+four one-day warm-up matches at the start of the tour .,O O O O O O O O O O O
+the tourists will play nine first-class matches against,O O O O O O O O
+"english county sides and another against british universities ,",I-MISC O O O O O I-ORG I-ORG O
+as well as one-day matches against the minor counties and,O O O O O O O I-ORG I-ORG O
+scotland .,I-LOC O
+tour itinerary :,O O O
+may,O
+may 13 arrive in london,O O O O I-LOC
+may 14 practice at lord 's,O O O O I-LOC I-LOC
+may 15 v duke of norfolk 's xi ( at arundel ),O O O I-ORG I-ORG I-ORG I-ORG I-ORG O O I-LOC O
+may 17 v northampton,O O O I-ORG
+may 18 v worcestershire,O O O I-ORG
+may 20 v durham,O O O I-ORG
+"may 22 first one-day international ( at headingley ,",O O O O O O O I-LOC O
+leeds ),I-ORG O
+"may 24 second one-day international ( at the oval ,",O O O O O O O I-LOC I-LOC O
+london ),I-LOC O
+"may 25 third one-day international ( at lord 's , london )",O O O O O O O I-LOC I-LOC O I-LOC O
+may 27-29 v gloucestershire or sussex or surrey ( three,O O O I-ORG O I-ORG O I-ORG O O
+days ),O O
+may 31 - june 2 v derbyshire ( three days ),O O O O O O I-ORG O O O O
+june,O
+"june 5-9 first test match ( at edgbaston , birmingham )",O O O O O O O I-LOC O I-LOC O
+june 11-13 v a first class county ( to be confirmed ),O O O O O O O O O O O O
+june 14-16 v leicestershire ( three days ),O O O I-ORG O O O O
+june 19-23 second test ( at lord 's ),O O O O O O I-LOC I-LOC O
+"june 25-27 v british universities ( at oxford , three days )",O O O I-ORG I-ORG O O I-LOC O O O O
+june 28-30 v hampshire ( three days ),O O O I-ORG O O O O
+july,O
+"july 3-7 third test ( at old trafford , manchester )",O O O O O O I-LOC I-LOC O I-LOC O
+july 9 v minor counties xi,O O O I-ORG I-ORG I-ORG
+july 12 v scotland,O O O I-LOC
+july 16-18 v glamorgan ( three days ),O O O I-ORG O O O O
+july 19-21 v middlesex ( three days ),O O O I-ORG O O O O
+july 24-28 fourth test ( at headingley ),O O O O O O I-LOC O
+august,O
+august 1-4 v somerset ( four days ),O O O I-ORG O O O O
+"august 7-11 fifth test ( at trent bridge , nottingham )",O O O O O O I-LOC I-LOC O I-LOC O
+august 16-18 v kent ( three days ),O O O I-ORG O O O O
+"august 21-25 sixth test ( at the oval , london ) .",O O O O O O I-LOC I-LOC O I-LOC O O
+-docstart-,O
+soccer - shearer named as england captain .,O O I-PER O O I-LOC O O
+london 1996-08-30,I-LOC O
+the world 's costliest footballer alan shearer was named as the new england captain on friday .,O O O O O I-PER I-PER O O O O O I-LOC O O O O
+"the 26-year-old , who joined newcastle for 15 million pounds sterling ( $ 23.4 million ) , takes over from tony adams , who led the side during the european championship in june , and former captain david platt .",O O O O O I-ORG O O O O O O O O O O O O O O I-PER I-PER O O O O O O O I-MISC O O O O O O O I-PER I-PER O
+adams and platt are both injured and will miss england 's opening world cup qualifier against moldova on sunday .,I-PER O I-PER O O O O O O I-LOC O O I-MISC I-MISC O O I-LOC O O O
+"shearer takes the captaincy on a trial basis , but new coach glenn hoddle said he saw no reason why the former blackburn and southampton skipper should not make the post his own .",I-PER O O O O O O O O O O O I-PER I-PER O O O O O O O O I-ORG O I-ORG O O O O O O O O O
+""" i 'm sure there wo n't be a problem , i 'm sure alan is the man for the job , "" hoddle said .",O O O O O O O O O O O O O O I-PER O O O O O O O O I-PER O O
+""" there were three or four people who could have done it but when i spoke to alan he was up for it and really wanted it .",O O O O O O O O O O O O O O O O O I-PER O O O O O O O O O O
+""" in four days it 's very difficult to come to a 100 percent conclusion about something like this ...",O O O O O O O O O O O O O O O O O O O O
+"but he knows how to conduct himself , his team mates respect him and he knows about the team situation even though he plays up front . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+shearer 's euro 96 striking partner teddy sheringham withdrew from the squad with an injury on friday .,I-PER O I-MISC I-MISC O O I-PER I-PER O O O O O O O O O O
+he will probably be replaced by shearer 's newcastle team mate les ferdinand .,O O O O O O I-PER O I-ORG O O I-PER I-PER O
+-docstart-,O
+basketball - international tournament result .,O O O O O O
+belgrade 1996-08-30,I-LOC O
+result in an international,O O O O
+basketball tournament on friday :,O O O O O
+red star ( yugoslavia ) beat dinamo ( russia ) 92-90 ( halftime,I-ORG I-ORG O I-LOC O O I-ORG O I-LOC O O O O
+47-47 ),O O
+-docstart-,O
+soccer - romania beat lithuania in under-21 match .,O O I-LOC O I-LOC O O O O
+bucharest 1996-08-30,I-LOC O
+romania beat lithuania 2-1 ( halftime 1-1 ) in their european under-21 soccer match on friday .,I-LOC O I-LOC O O O O O O O I-MISC O O O O O O
+scorers :,O O
+"romania - cosmin contra ( 31st ) , mihai tararache ( 75th )",I-LOC O I-PER I-PER O O O O I-PER I-PER O O O
+lithuania - danius gleveckas ( 13rd ),I-LOC O I-PER I-PER O O O
+attendance : 200,O O O
+-docstart-,O
+soccer - rotor fans locked out after volgograd violence .,O O I-ORG O O O O I-LOC O O
+moscow 1996-08-30,I-LOC O
+rotor volgograd must play their next home game behind closed doors after fans hurled bottles and stones at dynamo moscow players during a 1-0 home defeat on saturday that ended rotor 's brief spell as league leaders .,I-ORG I-ORG O O O O O O O O O O O O O O O O I-ORG I-ORG O O O O O O O O O O I-ORG O O O O O O O
+"the head of the russian league 's disciplinary committee , anatoly gorokhovsky , said on friday that rotor would play lada togliatti to empty stands on september 3 .",O O O O I-MISC O O O O O I-PER I-PER O O O O O I-ORG O O I-ORG I-ORG O O O O O O O
+"the club , who put manchester united out of last year 's uefa cup , were fined $ 1,000 .",O O O O O I-ORG I-ORG O O O O O I-MISC I-MISC O O O O O O
+"despite the defeat , rotor are well placed with 11 games to play in the championship .",O O O O I-ORG O O O O O O O O O O O O
+"lying three points behind alania and two behind dynamo moscow , the volgograd side have a game in hand over the leaders and two over the moscow club .",O O O O I-ORG O O O I-ORG I-ORG O O I-LOC O O O O O O O O O O O O O I-LOC O O
+-docstart-,O
+boxing - panama 's roberto duran fights the sands of time .,O O I-LOC O I-PER I-PER O O O O O O
+panama city 1996-08-30,I-LOC I-LOC O
+"panamanian boxing legend roberto "" hands of stone "" duran climbs into the ring on saturday in another age-defying attempt to sustain his long career .",I-MISC O O I-PER I-PER I-PER I-PER I-PER I-PER I-PER O O O O O O O O O O O O O O O O
+"duran , 45 , takes on little-known mexican ariel cruz , 30 , in a super middleweight non-title bout in panama city .",I-PER O O O O O O I-MISC I-PER I-PER O O O O O O O O O O I-LOC I-LOC O
+"the fight , duran 's first on home soil for 10 years , is being billed here as the "" return of the legend "" and duran still talks as if he was in his prime .",O O O I-PER O O O O O O O O O O O O O O O O I-MISC I-MISC I-MISC I-MISC O O I-PER O O O O O O O O O O
+""" i want a fifth title .",O O O O O O O
+this match is to prepare me .,O O O O O O O
+i feel good .,O O O O
+"i 'm not retiring , "" duran told reuters .",O O O O O O I-PER O I-ORG O
+"but those close to the boxer acknowledge that the man who has won championships in four different weight classes -- lightweight , welterweight , junior middleweight and middleweight -- is drawing close to the end of his career .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+""" each time he fights , he 's on the last frontier of his career .",O O O O O O O O O O O O O O O O
+"if he loses saturday , it could devalue his position as one of the world 's great boxers , "" panamanian boxing association president ramon manzanares said .",O O O O O O O O O O O O O O O O O O O O I-MISC I-ORG I-ORG O I-PER I-PER O O
+"duran , whose 97-12 record spans three decades , hopes a win in the 10-round bout will earn him a rematch against puerto rico 's hector "" macho "" camacho .",I-PER O O O O O O O O O O O O O O O O O O O O O I-LOC I-LOC O I-PER I-PER I-PER I-PER I-PER O
+camacho took a controversial points decision against the panamanian in atlantic city in june in a title fight .,I-PER O O O O O O O I-MISC O I-LOC I-LOC O O O O O O O
+-docstart-,O
+squash - hong kong open quarter-final results .,O O I-MISC I-MISC I-MISC O O O
+hong kong 1996-08-30,I-LOC I-LOC O
+quarter-final results in the hong kong open on friday ( prefix number denotes seeding ) : 1 - jansher khan ( pakistan ) beat mark cairns ( england ) 15-10 15-6 15-7,O O O O I-MISC I-MISC I-MISC O O O O O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O
+anthony hill ( australia ) beat dan jenson ( australia ) 15-9 15-8 15-17 17-15,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O
+4 - peter nicol ( scotland ) beat 7 - chris walker ( england ) 15-8 15-13 13-15 15-9,O O I-PER I-PER O I-LOC O O O O I-PER I-PER O I-LOC O O O O O
+2 - rodney eyles ( australia ) beat derek ryan ( ireland ) 15-6 15-9 11-15 15-10 .,O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O
+-docstart-,O
+soccer - results of south korean pro-soccer games .,O O O O I-MISC I-MISC O O O
+seoul 1996-08-30,I-LOC O
+results of south korean pro-soccer,O O I-MISC I-MISC O
+games played on thursday .,O O O O O
+pohang 3 ulsan 2 ( halftime 1-0 ),I-ORG O I-ORG O O O O O
+puchon 2 chonbuk 1 ( halftime 1-1 ),I-ORG O I-ORG O O O O O
+standings after games played on thursday ( tabulate under -,O O O O O O O O O O
+"won , drawn , lost , goals for , goals against , points ) :",O O O O O O O O O O O O O O O
+w d l g / f g / a p,O O O O O O O O O O
+puchon 3 1 0 6 1 10,I-ORG O O O O O O
+chonan 3 0 1 13 10 9,I-ORG O O O O O O
+pohang 2 1 1 11 10 7,I-ORG O O O O O O
+suwan 1 3 0 7 3 6,I-ORG O O O O O O
+ulsan 1 0 2 8 9 3,I-ORG O O O O O O
+anyang 0 3 1 6 9 3,I-ORG O O O O O O
+chonnam 0 2 1 4 5 2,I-ORG O O O O O O
+pusan 0 2 1 3 7 2,I-ORG O O O O O O
+chonbuk 0 0 3 3 7 0,I-ORG O O O O O O
+-docstart-,O
+baseball - results of s. korean professional games .,O O O O I-MISC I-MISC O O O
+seoul 1996-08-30,I-LOC O
+results of south korean,O O I-MISC I-MISC
+professional baseball games played on thursday .,O O O O O O O
+lg 2 ob 0,I-ORG O I-ORG O
+lotte 6 hyundai 2,I-ORG O I-ORG O
+hyundai 6 lotte 5,I-ORG O I-ORG O
+haitai 2 samsung 0,I-ORG O I-ORG O
+samsung 10 haitai 3,I-ORG O I-ORG O
+hanwha 6 ssangbangwool 5,I-ORG O I-ORG O
+"note - lotte and hyundai , haitai and samsung played two games .",O O I-ORG O I-ORG O I-ORG O I-ORG O O O O
+standings after games played on thursday ( tabulate under,O O O O O O O O O
+"won , drawn , lost , winning percentage , games behind first place )",O O O O O O O O O O O O O O
+w d l pct gb,O O O O O
+haitai 64 2 43 .596 -,I-ORG O O O O O
+ssangbangwool 59 2 49 .545 5 1/2,I-ORG O O O O O O
+hanwha 58 1 49 .542 6,I-ORG O O O O O
+hyundai 57 5 49 .536 6 1/2,I-ORG O O O O O O
+samsung 49 5 56 .468 14,I-ORG O O O O O
+lotte 46 6 54 .462 14 1/2,I-ORG O O O O O O
+lg 46 5 59 .441 17,I-ORG O O O O O
+ob 42 6 62 .409 20 1/2,I-ORG O O O O O O
+-docstart-,O
+tennis - friday 's results from the u.s. open .,O O O O O O O I-MISC I-MISC O
+new york 1996-08-30,I-LOC I-LOC O
+results from the u.s. open tennis championships at the national tennis centre on friday ( prefix number denotes seeding ) :,O O O I-MISC I-MISC I-MISC I-MISC O O I-LOC I-LOC I-LOC O O O O O O O O O
+"women 's singles , third round",O O O O O O
+sandrine testud ( france ) beat ines gorrochategui ( argentina ) 4-6 6-2 6-1,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O
+"men 's singles , second round",O O O O O O
+4 - goran ivanisevic ( croatia ) beat scott draper ( australia ) 6-7 ( 1-7 ) 6-3 6-4 6-4,O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O O O
+tim henman ( britain ) beat doug flach ( u.s. ) 6-3 6-4 6-2,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O
+mark philippoussis ( australia ) beat andrei olhovskiy ( russia ) 6 - 3 6-4 6-2,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O
+sjeng schalken ( netherlands ) beat david rikl ( czech republic ) 6 - 2 6-4 6-4,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC I-LOC O O O O O O
+guy forget ( france ) beat 17 - felix mantilla ( spain ) 6-4 7-5 6-3,I-PER I-PER O I-LOC O O O O I-PER I-PER O I-LOC O O O O
+"men 's singles , second round",O O O O O O
+alexander volkov ( russia ) beat mikael tillstrom ( sweden ) 1-6 6- 4 6-1 4-6 7-6 ( 10-8 ),I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O O O O O
+jonas bjorkman ( sweden ) beat david nainkin ( south africa ) ) 6-4 6-1 6-1,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC I-LOC O O O O O
+"women 's singles , third round",O O O O O O
+8 - lindsay davenport ( u.s. ) beat anne-gaelle sidot ( france ) 6-0 6-3,O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O
+4 - conchita martinez ( spain ) beat helena sukova ( czech republic ) 6-4 6-3,O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC I-LOC O O O
+amanda coetzer ( south africa ) beat irina spirlea ( romania ) 7-6 ( 7-5 ) 7-5,I-PER I-PER O I-LOC I-LOC O O I-PER I-PER O I-LOC O O O O O O
+"add men 's singles , second round 16 - cedric pioline ( france ) beat roberto carretero ( spain ) 4-6 6 - 2 6-2 6-1 alex corretja ( spain ) beat filippo veglio ( switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",O O O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O O O O
+"add women 's singles , third round linda wild ( u.s. ) beat barbara rittner ( germany ) 6-4 4-6 7-5 asa carlsson ( sweden ) beat 15 - gabriela sabatini ( argentina ) 7-5 3-6 6-2",O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O I-PER I-PER O I-LOC O O O O I-PER I-PER O I-LOC O O O O
+"add men 's singles , second round 1 - pete sampras ( u.s. ) beat jiri novak ( czech republic ) 6-3 1-6 6-3 4-6 6-4 paul haarhuis ( netherlands ) beat michael tebbutt ( australia ) 1- 6 6-2 6-2 6-3",O O O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC I-LOC O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O
+"add women 's singles , third round lisa raymond ( u.s. ) beat kimberly po ( u.s. ) 6-3 6-2",O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O
+:,O
+"add men 's singles , second round",O O O O O O O
+hendrik dreekmann ( germany ) beat thomas johansson ( sweden ),I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O
+7-6 ( 7-1 ) 6-2 4-6 6-1,O O O O O O O
+andrei medvedev ( ukraine ) beat jan kroslak ( slovakia ) 6-4 6-3,I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O
+6-2,O
+petr korda ( czech republic ) bat bohdan ulihrach ( czech,I-PER I-PER O I-LOC I-LOC O O I-PER I-PER O I-LOC
+republic ) 6-0 7-6 ( 7-5 ) 6-2,I-LOC O O O O O O O
+"add women 's singles , third round",O O O O O O O
+2 - monica seles ( u.s. ) beat dally randriantefy ( madagascar ),O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O
+6-0 6-2,O O
+:,O
+"add men 's singles , second round 12 - todd martin ( u.s. ) beat andrea gaudenzi ( italy ) 6-3 6-2 6-2 stefan edberg ( sweden ) beat bernd karbacher ( germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",O O O O O O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O O O O O O O O O
+-docstart-,O
+baseball - major league standings after thursday 's games .,O O I-MISC I-MISC O O O O O O
+new york 1996-08-30,I-LOC I-LOC O
+major league baseball,I-MISC I-MISC I-MISC
+"standings after games played on thursday ( tabulate under won ,",O O O O O O O O O O O
+"lost , winning percentage and games behind ) :",O O O O O O O O O
+american league,I-MISC I-MISC
+eastern division,I-MISC I-MISC
+w l pct gb,O O O O
+new york 74 59 .556 -,I-ORG I-ORG O O O O
+baltimore 70 63 .526 4,I-ORG O O O O
+boston 69 65 .515 5 1/2,I-ORG O O O O O
+toronto 63 71 .470 11 1/2,I-ORG O O O O O
+detroit 48 86 .358 26 1/2,I-ORG O O O O O
+central division,I-MISC I-MISC
+cleveland 80 53 .602 -,I-ORG O O O O
+chicago 71 64 .526 10,I-ORG O O O O
+minnesota 67 67 .500 13 1/2,I-ORG O O O O O
+milwaukee 64 71 .474 17,I-ORG O O O O
+kansas city 61 74 .452 20,I-ORG I-ORG O O O O
+western division,I-MISC I-MISC
+texas 75 58 .564 -,I-ORG O O O O
+seattle 70 63 .526 5,I-ORG O O O O
+oakland 64 72 .471 12 1/2,I-ORG O O O O O
+california 62 72 .463 13 1/2,I-ORG O O O O O
+"friday , august 30 schedule",O O O O O
+kansas city at detroit,I-ORG I-ORG O I-LOC
+chicago at toronto,I-ORG O I-LOC
+minnesota at milwaukee,I-ORG O I-LOC
+cleveland at texas,I-ORG O I-LOC
+new york at california,I-ORG I-ORG O I-LOC
+boston at oakland,I-ORG O I-LOC
+baltimore at seattle,I-ORG O I-LOC
+national league,I-MISC I-MISC
+eastern division,I-MISC I-MISC
+w l pct gb,O O O O
+atlanta 83 49 .629 -,I-ORG O O O O
+montreal 71 61 .538 12,I-ORG O O O O
+florida 64 70 .478 20,I-ORG O O O O
+new york 59 75 .440 25,I-ORG I-ORG O O O O
+philadelphia 54 80 .403 30,I-ORG O O O O
+central division,I-MISC I-MISC
+houston 72 63 .533 -,I-ORG O O O O
+st louis 69 65 .515 2 1/2,I-ORG I-ORG O O O O O
+cincinnati 66 67 .496 5,I-ORG O O O O
+chicago 65 66 .496 5,I-ORG O O O O
+pittsburgh 56 77 .421 15,I-ORG O O O O
+western division,I-MISC I-MISC
+san diego 75 60 .556 -,I-ORG I-ORG O O O O
+los angeles 72 61 .541 2,I-ORG I-ORG O O O O
+colorado 70 65 .519 5,I-ORG O O O O
+san francisco 57 74 .435 16,I-ORG I-ORG O O O O
+"friday , august 30 schedule",O O O O O
+atlanta at chicago,I-ORG O I-LOC
+florida at cincinnati,I-ORG O I-LOC
+san diego at montreal,I-ORG I-ORG O I-LOC
+los angeles at philadelphia,I-ORG I-ORG O I-LOC
+houston at pittsburgh,I-ORG O I-LOC
+san francisco at new york,I-ORG I-ORG O I-LOC I-LOC
+colorado at st louis,I-ORG O I-LOC I-LOC
+-docstart-,O
+baseball - major league results thursday .,O O I-MISC I-MISC O O O
+new york 1996-08-30,I-LOC I-LOC O
+results of major league,O O I-MISC I-MISC
+baseball games played on thursday ( home team in caps ) :,O O O O O O O O O O O O
+american league,I-MISC I-MISC
+detroit 4 kansas city 1,I-ORG O I-ORG I-ORG O
+minnesota 6 milwaukee 1,I-ORG O I-ORG O
+california 14 new york 3,I-ORG O I-ORG I-ORG O
+seattle 9 baltimore 6,I-ORG O I-ORG O
+national league,I-MISC I-MISC
+san diego 3 new york 2,I-ORG I-ORG O I-ORG I-ORG O
+chicago 4 houston 3,I-ORG O I-ORG O
+cincinnati 18 colorado 7,I-ORG O I-ORG O
+atlanta 5 pittsburgh 1,I-ORG O I-ORG O
+los angeles 2 montreal 1,I-ORG I-ORG O I-ORG O
+florida 10 st louis 9,I-ORG O I-ORG I-ORG O
+-docstart-,O
+"tennis - tarango , o'brien spring twin upsets under the lights .",O O I-PER O I-PER O O O O O O O
+larry fine,I-PER I-PER
+new york 1996-08-30,I-LOC I-LOC O
+andre agassi escaped disaster on thursday but wimbledon finalist malivai washington and marcelo rios were not so fortunate on a night of upsets at the u.s. open .,I-PER I-PER O O O O O I-MISC O I-PER I-PER O I-PER I-PER O O O O O O O O O O O I-MISC I-MISC O
+the 11th-seeded washington fell short of reprising his wimbledon miracle comeback as he lost to red-hot wildcard alex o'brien 6-3 6-4 5-7 3-6 6-3 in a two hour 51 minute struggle on the stadium court .,O O I-PER O O O O O I-MISC O O O O O O O O I-PER I-PER O O O O O O O O O O O O O O O O O
+"next door on the grandstand , 10th seed rios lost to another player with a wimbledon connection -- bad boy jeff tarango .",O O O O O O O O I-PER O O O O O O I-MISC O O O O I-PER I-PER O
+the temperamental left-hander defeated the chilean 6-4 4-6 7-6 6-2 .,O O O O O I-MISC O O O O O
+"the day programme went smoothly although sixth-seeded former champion agassi had to wriggle out of a dangerous 3-6 0-4 hole , winning 18 of the last 19 games against india 's leander paes .",O O O O O O O O O I-PER O O O O O O O O O O O O O O O O O O O I-LOC O I-PER I-PER O
+but the night belonged to the upstarts .,O O O O O O O O
+"washington , who climbed back from a 1-5 deficit , two sets down in the third set against todd martin in the wimbledon semifinals , looked poised for another sensational comeback .",I-PER O O O O O O O O O O O O O O O O O I-PER I-PER O O I-MISC O O O O O O O O O
+"o'brien , a winner two weeks ago in new haven for his first pro title , served for the match at 5-4 in the third set before washington came charging back .",I-PER O O O O O O O I-LOC I-LOC O O O O O O O O O O O O O O O O O I-PER O O O O
+""" i just kept saying to myself , ' keep giving yourself the best chance to win , keep battling , maybe something will happen , ' "" said the 26-year-old o'brien , ranked 65th .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O I-PER O O O O
+""" i kept my composure and i was proud of myself for that -- usually i would have folded up the tent and gone home . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"the hard-serving o'brien , a former u.s. collegiate national champion , fired up 17 aces to ultimately subdue the never-say-die washington .",O O I-PER O O O I-LOC O O O O O O O O O O O O O I-PER O
+"the fifth set stayed on serve until the sixth game , when washington , after saving one break point with a forehand winner down the line , netted a backhand to give o'brien a 4-2 lead .",O O O O O O O O O O O O I-PER O O O O O O O O O O O O O O O O O O O I-PER O O O O
+the texan blasted in two aces to hold serve at 5-2 and then converted his eighth match point for victory when washington found the net with another backhand from 40-0 .,O I-MISC O O O O O O O O O O O O O O O O O O O I-PER O O O O O O O O O
+""" you just kind of keep fighting and you keep trying to make him play a little bit .",O O O O O O O O O O O O O O O O O O O
+"i think he got a little tight at a couple of moments , "" said washington . """,O O O O O O O O O O O O O O O I-PER O O
+"but i think he served pretty well when he had to . """,O O O O O O O O O O O O O
+"tarango , whose wimbledon tantrum two years ago brought him a $ 28,000 fine and suspension from this year 's tournament at the all-england club , argued calls and taunted fans in his lively two hour , 24 minute tango with rios on the grandstand .",I-PER O O I-MISC O O O O O O O O O O O O O O O O O O O I-ORG I-ORG O O O O O O O O O O O O O O O O I-PER O O O O
+"a boisterous cheering section backed the distracted chilean and booed the lanky american , who ate up all the attention .",O O O O O O O I-MISC O O O O I-MISC O O O O O O O O
+""" i 'm an emotional player , "" said the 104th-ranked tarango . """,O O O O O O O O O O O I-PER O O
+"i think i played very well tonight , very focused . """,O O O O O O O O O O O O
+"the match turned on the third-set tiebreaker , which the american won 7-5 much to the dismay of the spectators .",O O O O O O O O O O I-MISC O O O O O O O O O O
+""" i love the crowd if they boo me every day .",O O O O O O O O O O O O
+"it fires me up , makes me play my best tennis , "" tarango said .",O O O O O O O O O O O O O I-PER O O
+""" i played some of my best tennis in college when fraternities were throwing beer on me .",O O O O O O O O O O O O O O O O O O
+"if tennis was like that every day , i think everybody wold be having a lot more fun . """,O O O O O O O O O O O O O O O O O O O O
+rios did not appreciate tarango 's antics .,I-PER O O O I-PER O O O
+""" he 's always complaining too much , "" said rios . """,O O O O O O O O O O I-PER O O
+but i think it 's not that .,O O O O O O O O
+i think i played really bad .,O O O O O O O
+it was tough to play at night .,O O O O O O O O
+balls were going really fast .,O O O O O O
+i lost too many points that i never lose .,O O O O O O O O O O
+"i did n't play my tennis . """,O O O O O O O O
+""" i do n't see the ball like i see during the day .",O O O O O O O O O O O O O O
+i play an american so that 's why i play at night .,O O O I-MISC O O O O O O O O O
+"i did n't feel good on the court . """,O O O O O O O O O O
+"at the end of the match , tarango blew sarcastic kisses to the crowd , then jiggled his body to a rios rooting section in a jeering salute .",O O O O O O O I-PER O O O O O O O O O O O O O I-PER O O O O O O O
+""" i support their enthusiasm , "" tarango said about the fans . """,O O O O O O O I-PER O O O O O O
+"at the same time , they 're cheering blatantly against me .",O O O O O O O O O O O O
+"after i won i figured i could give them a little razzle-dazzle . """,O O O O O O O O O O O O O O
+-docstart-,O
+nfl american football-randall cunningham retires .,I-ORG I-MISC I-MISC I-PER O O
+philadelphia 1996-08-29,I-LOC O
+"randall cunningham , the national football league 's all-time leading rusher as a quarterback and one of the most athletic players ever to line up over centre , retired thursday .",I-PER I-PER O O I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+cunningham played his entire 11-year career with the philadelphia eagles .,I-PER O O O O O O O I-ORG I-ORG O
+"a three-time pro bowl selection , cunningham rushed for 4,482 yards on 677 carries .",O O I-MISC I-MISC O O I-PER O O O O O O O O
+""" i would like to thank the eagles organisation and the wonderful fans of philadelphia for supporting me throughout my career , "" cunningham said .",O O O O O O O I-ORG O O O O O O I-ORG O O O O O O O O I-PER O O
+""" although it saddens me to leave , i am looking forward to spending more time with my family and pursuing other interests that have been on the back burner for sometime . """,O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+""" randall was one of the most exciting quarterbacks in nfl history , "" said eagles owner jeffrey lurie . """,O I-PER O O O O O O O O I-ORG O O O O I-ORG O I-PER I-PER O O
+"during his 11 years in philadelphia , randall was the cornerstone of the eagles ' franchise and brought many great moments to fans in philadelphia as well as across the nfl . """,O O O O O I-LOC O I-PER O O O O O I-ORG O O O O O O O O O O I-LOC O O O O O I-ORG O O
+"a second-round choice in 1985 , cunningham completed 1,874-of-3,362 passes ( 55.7 percent ) for 22,877 yards and 150 touchdowns .",O O O O O O I-PER O O O O O O O O O O O O O O
+cunningham has already been signed as a broadcaster .,I-PER O O O O O O O O
+-docstart-,O
+golf - leading scores at greater milwaukee open .,O O O O O I-MISC I-MISC I-MISC O
+"milwaukee , wisconsin 1996-08-29",I-LOC O I-LOC O
+leading scores in,O O O
+"the $ 1.2 million greater milwaukee open at the par-71 ,",O O O O I-MISC I-MISC I-MISC O O O O
+"6,739-yard brown deer park golf course after the first round",O I-LOC I-LOC I-LOC I-LOC I-LOC O O O O
+on thursday ( players u.s. unless stated ) :,O O O O I-LOC O O O O
+62 nolan henke,O I-PER I-PER
+64 bob estes,O I-PER I-PER
+"65 billy andrade , duffy waldorf , jesper parnevik ( sweden )",O I-PER I-PER O I-PER I-PER O I-PER I-PER O I-LOC O
+"66 neal lancaster , dave barr ( canada ) , mike sullivan , willie",O I-PER I-PER O I-PER I-PER O I-LOC O O I-PER I-PER O I-PER
+"wood , loren roberts , steve stricker , brian claar , russ cochran",I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER
+"67 mark calcavecchia , payne stewart , billy mayfair , ken",O I-PER I-PER O I-PER I-PER O I-PER I-PER O I-PER
+"green , jerry kelly , tim simpson , olin browne , shane bortsch ,",I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER O
+"mike hulbert , brian henninger , tiger woods , steve jurgenson ,",I-PER I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER O
+bryan gorman,I-PER I-PER
+-docstart-,O
+"golf - henke takes lead in milwaukee , woods makes pro debut .",O O I-PER O O O I-LOC O I-PER O O O O
+"milwaukee , wisconsin 1996-08-29",I-LOC O I-LOC O
+nolan henke fired a nine-under-par 62 to grab a two-shot lead after the opening round of the $ 1.2 million greater milwaukee open thursday as 20-year-old tiger woods shot 67 in his professional debut .,I-PER I-PER O O O O O O O O O O O O O O O O O O I-MISC I-MISC I-MISC O O O I-PER I-PER O O O O O O O
+"henke stood two strokes ahead of bob estes and three up on billy andrade , duffy waldorf and jesper parnevik .",I-PER O O O O O I-PER I-PER O O O O I-PER I-PER O I-PER I-PER O I-PER I-PER O
+"woods , who turned pro tuesday after winning an unprecedented third successive u.s. amateur championship , almost eagled the 18th hole .",I-PER O O O O O O O O O O O I-MISC I-MISC I-MISC O O O O O O O
+he settled for a birdie and a four-under opening round that left him five shots off the pace .,O O O O O O O O O O O O O O O O O O O
+""" yesterday was the toughest day i 've had for a long time , "" woods said . """,O O O O O O O O O O O O O O O I-PER O O O
+"today , i got to play golf . """,O O O O O O O O O
+"he added : "" i thought i got off off to a great start .",O O O O O O O O O O O O O O O
+it was a perfect start .,O O O O O O
+"i 'm in a good position . """,O O O O O O O O
+"henke , who called his round a "" pleasant surprise , "" finished with six birdies on the final eight holes .",I-PER O O O O O O O O O O O O O O O O O O O O O
+""" we finally got things going in the right direction , "" he said . """,O O O O O O O O O O O O O O O O
+it was my best round in a very long time .,O O O O O O O O O O O
+my short game has improved since i 've had to use it so often .,O O O O O O O O O O O O O O O
+that 's always been the worst part of my game .,O O O O O O O O O O O
+"all in all , playing bad 's been a good experience . """,O O O O O O O O O O O O O
+"henke , who came within one shot of the course record set by andrew magee during wednesday 's pro-am , has three career pga tour victories , but none since the 1993 bellsouth classic .",I-PER O O O O O O O O O O O O I-PER I-PER O O O O O O O O I-MISC I-MISC O O O O O O O I-MISC I-MISC O
+"estes , whose only win came at the 1994 texas open and whose best finish this year was a third-place tie at the nortel open in january , eagled the par-five fourth hole and added five birdies to grab sole possession of second place .",I-PER O O O O O O O O I-MISC I-MISC O O O O O O O O O O O O I-MISC I-MISC O O O O O O O O O O O O O O O O O O O O
+""" no bogeys on the card , "" he noted . """,O O O O O O O O O O O O
+"sometimes i take more pride in that . """,O O O O O O O O O
+"woods was among a group of 13 players at four under , including 1993 champion billy mayfair , who tied for second at last week 's world series of golf , and former u.s. open champ payne stewart .",I-PER O O O O O O O O O O O O O O I-PER I-PER O O O O O O O O O I-MISC I-MISC I-MISC I-MISC O O O I-MISC I-MISC O I-PER I-PER O
+defending champion scott hoch shot a three-under 68 and was six strokes back .,O O I-PER I-PER O O O O O O O O O O
+"phil mickelson , the only four-time winner on the pga tour , skipped the tournament after winning the world series of golf last week .",I-PER I-PER O O O O O O O I-MISC I-MISC O O O O O O O I-MISC I-MISC I-MISC I-MISC O O O
+"mark brooks , tom lehman and mark o'meara , who make up the rest of the top four on the money list , also took the week off .",I-PER I-PER O I-PER I-PER O I-PER I-PER O O O O O O O O O O O O O O O O O O O O O
+-docstart-,O
+soccer - silva 's `lost passport ' excuse not enough for fifa .,O O I-PER O O O O O O O O I-ORG O
+madrid 1996-08-30,I-LOC O
+"spanish first division team deportivo coruna will be without key midfielder mauro silva for saturday 's game with real madrid after fifa , soccer 's world governing body , suspended the brazilian for one game for missing his national side 's european tour .",I-MISC O O O I-ORG I-ORG O O O O O I-PER I-PER O O O O O I-ORG I-ORG O I-ORG O O O O O O O O O I-MISC O O O O O O O O O I-MISC O O
+"silva excused his absence from brazil 's game against russia , on wednesday , and saturday 's match with the netherlands by saying he had lost his passport .",I-PER O O O O I-LOC O O O I-LOC O O O O O O O O O O I-LOC O O O O O O O O
+but that did not prevent him from collecting the one-match suspension .,O O O O O O O O O O O O
+-docstart-,O
+athletics - mitchell defeats bailey in front of former champions .,O O I-PER O I-PER O O O O O O
+adrian warner,I-PER I-PER
+berlin 1996-08-30,I-LOC O
+american dennis mitchell outclassed olympic 100 metres champion donovan bailey for the third time at a major post-games meeting in front of the most experienced sprinting crowd in the world on friday .,I-MISC I-PER I-PER O I-MISC O O O I-PER I-PER O O O O O O O I-MISC O O O O O O O O O O O O O O O
+"watched by an array of former olympic sprint champions at the berlin grand prix meeting , mitchell made a brilliant start in the 100 metres and held off bailey 's strong finish to win in 10.08 seconds despite cool conditions .",O O O O O O I-MISC O O O O I-LOC O O O O I-PER O O O O O O O O O O O I-PER O O O O O O O O O O O O
+"bailey , who set a world record of 9.84 on his way to victory in atlanta , could not catch his american rival and had to settle for third in a tight finish .",I-PER O O O O O O O O O O O O O O I-LOC O O O O O I-MISC O O O O O O O O O O O O
+jamaica 's michael green was second with 10.09 with bailey finishing in 10.13 .,I-LOC O I-PER I-PER O O O O O I-PER O O O O
+"last friday mitchell , who finished fourth at the atlanta games , upstaged a trio of olympic champions including bailey to win the 100 in brussels .",O O I-PER O O O O O O I-MISC I-MISC O O O O O I-MISC O O I-PER O O O O O I-LOC O
+earlier this month he also beat world champion bailey in zurich .,O O O O O O O O I-PER O I-LOC O
+"berlin , brussels and zurich all belong to the most lucrative series in the sport , the golden four .",I-LOC O I-LOC O I-LOC O O O O O O O O O O O O I-MISC I-MISC O
+among the crowd on friday were olympic 100 metres champions going back to 1948 .,O O O O O O I-MISC O O O O O O O O
+they had been invited to the meeting to watch a special relay to mark the 60th anniversary of jesse owens 's four gold medals at the 1936 olympics in the same berlin stadium .,O O O O O O O O O O O O O O O O O O I-PER I-PER O O O O O O O I-MISC O O O I-LOC O O
+""" today the concentration was the most important thing for me , "" mitchell said .",O O O O O O O O O O O O O I-PER O O
+"despite the coolish conditions american olympic champion gail devers looked in commanding form in the women 's 100 , clocking 10.89 to defeat jamaican rival merlene ottey , who was second in 10.94 .",O O O O I-MISC I-MISC O I-PER I-PER O O O O O O O O O O O O O O I-MISC O I-PER I-PER O O O O O O O
+-docstart-,O
+athletics - berlin grand prix results .,O O I-MISC I-MISC I-MISC O O
+berlin 1996-08-30,I-LOC O
+leading results at the berlin,O O O O I-MISC
+grand prix athletics meeting on friday :,I-MISC I-MISC O O O O O
+women 's 100 metres hurdles,O O O O O
+1. michelle freeman ( jamaica ) 12.71 seconds,O I-PER I-PER O I-LOC O O O
+2. ludmila engquist ( sweden ) 12.74,O I-PER I-PER O I-LOC O O
+3. aliuska lopez ( cuba ) 12.92,O I-PER I-PER O I-LOC O O
+4. brigita bokovec ( slovenia ) 12.92,O I-PER I-PER O I-LOC O O
+5. dionne rose ( jamaica ) 12.92,O I-PER I-PER O I-LOC O O
+6. julie baumann ( switzerland ) 13.11,O I-PER I-PER O I-LOC O O
+7. gillian russell ( jamaica ) 13.17,O I-PER I-PER O I-LOC O O
+"women 's 1,500 metres",O O O O
+1. svetlana masterkova ( russia ) four minutes 6.87 seconds,O I-PER I-PER O I-LOC O O O O O
+2. patricia djate-taillard ( france ) 4:08.22,O I-PER I-PER O I-LOC O O
+3. carla sacramento ( portugal ) 4:08.96,O I-PER I-PER O I-LOC O O
+4. yekaterina podkopayeva ( russia ) 4:09.25,O I-PER I-PER O I-LOC O O
+5. leah pells ( canada ) 4:09.95,O I-PER I-PER O I-LOC O O
+6. carmen wuestenhagen ( germany ) 4:10.38,O I-PER I-PER O I-LOC O O
+7. margarita maruseva ( russia ) 4:10.87,O I-PER I-PER O I-LOC O O
+8. sara thorsett ( u.s. ) 4:11.06,O I-PER I-PER O I-LOC O O
+men 's 110 metres hurdles,O O O O O
+1. mark crear ( u.s. ) 13.26 seconds,O I-PER I-PER O I-LOC O O O
+2. tony jarrett ( britain ) 13.35,O I-PER I-PER O I-LOC O O
+3. florian schwarthoff ( germany ) 13.36,O I-PER I-PER O I-LOC O O
+4. emilio valle ( cuba ) 13.52,O I-PER I-PER O I-LOC O O
+5. falk balzer ( germany ) 13.52,O I-PER I-PER O I-LOC O O
+6. steve brown ( u.s. ) 13.53,O I-PER I-PER O I-LOC O O
+7. frank busemann ( germany ) 13.58,O I-PER I-PER O I-LOC O O
+8. jack pierce ( u.s. ) 13.60,O I-PER I-PER O I-LOC O O
+men 's 200 metres,O O O O
+1. frankie fredericks ( namibia ) 19.97 seconds,O I-PER I-PER O I-LOC O O O
+2. michael johnson ( u.s. ) 20.02,O I-PER I-PER O I-LOC O O
+3. ato boldon ( trinidad ) 20.37,O I-PER I-PER O I-LOC O O
+4. geir moen ( norway ) 20.41,O I-PER I-PER O I-LOC O O
+5. patrick stevens ( belgium ) 20.54,O I-PER I-PER O I-LOC O O
+6. jon drummond ( u.s. ) 20.78,O I-PER I-PER O I-LOC O O
+7. claus hirsbro ( denmark ) 20.90,O I-PER I-PER O I-LOC O O
+8. ivan garcia ( cuba ) 20.96,O I-PER I-PER O I-LOC O O
+women 's shot put,O O O O
+1. astrid kumbernuss ( germany ) 19.89 metres,O I-PER I-PER O I-LOC O O O
+2. claudia mues ( germany ) 18.80,O I-PER I-PER O I-LOC O O
+3. irina korzhanenko ( russia ) 18.63,O I-PER I-PER O I-LOC O O
+4. valentina fedyushina ( russia ) 18.55,O I-PER I-PER O I-LOC O O
+5. stephanie storp ( germany ) 18.41,O I-PER I-PER O I-LOC O O
+men 's mile,O O O
+1. noureddine morceli ( algeria ) 3 minutes 49.09 seconds,O I-PER I-PER O I-LOC O O O O O
+2. venuste niyongabo ( burundi ) 3:51.01,O I-PER I-PER O I-LOC O O
+3. william tanui ( kenya ) 3:51.40,O I-PER I-PER O I-LOC O O
+4. laban rotich ( kenya ) 3:53.42,O I-PER I-PER O I-LOC O O
+5. marko koers ( netherlands ) 3:53.47,O I-PER I-PER O I-LOC O O
+6. isaac viciosa ( spain ) 3:53.85,O I-PER I-PER O I-LOC O O
+7. john mayock ( britain ) 3:54.67,O I-PER I-PER O I-LOC O O
+8. marcus o'sullivan ( ireland ) 3:54.87,O I-PER I-PER O I-LOC O O
+men 's discus,O O O
+1. lars riedel ( germany ) 70.60 metres,O I-PER I-PER O I-LOC O O O
+2. anthony washington ( u.s. ) 68.44,O I-PER I-PER O I-LOC O O
+3. vasily kaptyukh ( belarus ) 66.24,O I-PER I-PER O I-LOC O O
+4. vladimir dubrovshchik ( belarus ) 65.30,O I-PER I-PER O I-LOC O O
+5. virgilijus alekna ( lithuania ) 65.00,O I-PER I-PER O I-LOC O O
+6. juergen schult ( germany ) 64.46,O I-PER I-PER O I-LOC O O
+7. andreas seelig ( germany ) 62.00,O I-PER I-PER O I-LOC O O
+8. michael moellenbeck ( germany ) 58.56,O I-PER I-PER O I-LOC O O
+women 's 100 metres,O O O O
+1. gail devers ( u.s. ) 10.89 seconds,O I-PER I-PER O I-LOC O O O
+2. merlene ottey ( jamaica ) 10.94,O I-PER I-PER O I-LOC O O
+3. gwen torrence ( u.s. ) 11.07,O I-PER I-PER O I-LOC O O
+4. mary onyali ( nigeria ) 11.14,O I-PER I-PER O I-LOC O O
+5. chryste gaines ( u.s. ) 11.20,O I-PER I-PER O I-LOC O O
+6. chandra sturrup ( bahamas ) 11.26,O I-PER I-PER O I-LOC O O
+7. irina privalova ( russia ) 11.27,O I-PER I-PER O I-LOC O O
+8. inger miller ( u.s. ) 11.37,O I-PER I-PER O I-LOC O O
+"women 's 5,000 metres",O O O O
+1. gabriela szabo ( romania ) 15 minutes 04.95 seconds,O I-PER I-PER O I-LOC O O O O O
+2. gete wami ( ethiopia ) 15:05.21,O I-PER I-PER O I-LOC O O
+3. rose cheruiyot ( kenya ) 15:05.41,O I-PER I-PER O I-LOC O O
+4. annemari sandell ( finland ) 15:06.33,O I-PER I-PER O I-LOC O O
+5. tegla loroupe ( kenya ) 15:08.79,O I-PER I-PER O I-LOC O O
+6. gunhild halle ( norway ) 15:09.00,O I-PER I-PER O I-LOC O O
+7. pauline konga ( kenya ) 15:09.74,O I-PER I-PER O I-LOC O O
+8. sally barsosio ( kenya ) 15:14.34,O I-PER I-PER O I-LOC O O
+men 's 400 metres hurdles,O O O O O
+1. torrance zellner ( u.s. ) 48.23 seconds,O I-PER I-PER O I-LOC O O O
+2. samuel matete ( zambia ) 48.34,O I-PER I-PER O I-LOC O O
+3. derrick adkins ( u.s. ) 48.62,O I-PER I-PER O I-LOC O O
+4. fabrizio mori ( italy ) 49.21,O I-PER I-PER O I-LOC O O
+5. sven nylander ( sweden ) 49.22,O I-PER I-PER O I-LOC O O
+6. eric thomas ( u.s. ) 49.35,O I-PER I-PER O I-LOC O O
+7. rohan robinson ( australia ) 49.36,O I-PER I-PER O I-LOC O O
+8. dusan kovacs ( hungary ) 49.58,O I-PER I-PER O I-LOC O O
+women 's 400 metres,O O O O
+1. falilat ogunkoya ( nigeria ) 50.31 seconds,O I-PER I-PER O I-LOC O O O
+2. jearl miles ( u.s. ) 50.42,O I-PER I-PER O I-LOC O O
+3. fatima yusuf ( nigeria ) 51.43,O I-PER I-PER O I-LOC O O
+4. anja ruecker ( germany ) 51.61,O I-PER I-PER O I-LOC O O
+5. olabisi afolabi ( nigeria ) 51.98,O I-PER I-PER O I-LOC O O
+6. phylis smith ( britain ) 52.05,O I-PER I-PER O I-LOC O O
+7. linda kisabaka ( germany ) 52.41,O I-PER I-PER O I-LOC O O
+8. karin janke ( germany ) 53.13,O I-PER I-PER O I-LOC O O
+men 's 100 metres,O O O O
+1. dennis mitchell ( u.s. ) 10.08,O I-PER I-PER O I-LOC O O
+2. michael green ( jamaica ) 10.09,O I-PER I-PER O I-LOC O O
+3. donovan bailey ( canada ) 10.13,O I-PER I-PER O I-LOC O O
+4. jon drummond ( u.s. ) 10.22,O I-PER I-PER O I-LOC O O
+5. davidson ezinwa ( nigeria ) 10.24,O I-PER I-PER O I-LOC O O
+6. geir moen ( norway ) 10.33,O I-PER I-PER O I-LOC O O
+7. marc blume ( germany ) 10.48,O I-PER I-PER O I-LOC O O
+men 's 800 metres,O O O O
+1. wilson kipketer ( denmark ) 1:43.34,O I-PER I-PER O I-LOC O O
+2. norberto tellez ( cuba ) 1:44.58,O I-PER I-PER O I-LOC O O
+3. sammy langat ( kenya ) 1:44.96,O I-PER I-PER O I-LOC O O
+4. nico motchebon ( germany ) 1:45.03,O I-PER I-PER O I-LOC O O
+5. david kiptoo ( kenya ) 1:45.27,O I-PER I-PER O I-LOC O O
+6. adem hacini ( algeria ) 1:45.64,O I-PER I-PER O I-LOC O O
+7. vebjoen rodal ( norway ) 1:46.45,O I-PER I-PER O I-LOC O O
+8. craig winrow ( britain ) 1:46.66,O I-PER I-PER O I-LOC O O
+men 's pole vault,O O O O
+1= andrei tiwontschik ( germany ) 5.86,O I-PER I-PER O I-LOC O O
+1= igor trandenkov ( russia ) 5.86,O I-PER I-PER O I-LOC O O
+3. maksim tarasov ( russia ) 5.86,O I-PER I-PER O I-LOC O O
+4. tim lobinger ( germany ) 5.80,O I-PER I-PER O I-LOC O O
+5. igor potapovich ( kazakstan ) 5.80,O I-PER I-PER O I-LOC O O
+6. jean galfione ( france ) 5.65,O I-PER I-PER O I-LOC O O
+7. pyotr bochkary ( russia ) 5.65,O I-PER I-PER O I-LOC O O
+8. dmitri markov ( belarus ) 5.65,O I-PER I-PER O I-LOC O O
+women 's high jump,O O O O
+1. stefka kostadinova ( bulgaria ) 2.03,O I-PER I-PER O I-LOC O O
+2. inga babakova ( ukraine ) 2.00 metres,O I-PER I-PER O I-LOC O O O
+3. alina astafei ( germany ) 1.97,O I-PER I-PER O I-LOC O O
+4. tatyana motkova ( russia ) 1.97,O I-PER I-PER O I-LOC O O
+5. hanne haugland ( norway ) 1.91,O I-PER I-PER O I-LOC O O
+6= nele zilinskiene ( lithuania ) 1.91,O I-PER I-PER O I-LOC O O
+6= yelena gulyayeva ( russia ) 1.91,O I-PER I-PER O I-LOC O O
+8. natalya golodnova ( russia ) 1.85,O I-PER I-PER O I-LOC O O
+"men 's 5,000 metres",O O O O
+1. daniel komen ( kenya ) 13 minutes 2.62 seconds,O I-PER I-PER O I-LOC O O O O O
+2. bob kennedy ( u.s. ) 13:06.12,O I-PER I-PER O I-LOC O O
+3. paul koech ( kenya ) 13:06.45,O I-PER I-PER O I-LOC O O
+4. el hassane lahssini ( morocco ) 13:06.57,O I-PER I-PER I-PER O I-LOC O O
+5. shem kororia ( kenya ) 13:06.65,O I-PER I-PER O I-LOC O O
+6. brahim lahlafi ( morocco ) 13:08.05,O I-PER I-PER O I-LOC O O
+7. tom nyariki ( kenya ) 13:20.12,O I-PER I-PER O I-LOC O O
+8. fita bayissa ( ethiopia ) 13:21.35,O I-PER I-PER O I-LOC O O
+men 's triple jump,O O O O
+1. jonathan edwards ( britain ) 17.69 metres,O I-PER I-PER O I-LOC O O O
+2. yoelvis quesada ( cuba ) 17.44,O I-PER I-PER O I-LOC O O
+3. kenny harrison ( u.s. ) 17.16,O I-PER I-PER O I-LOC O O
+4. mike conley ( u.s. ) 16.79,O I-PER I-PER O I-LOC O O
+5. armen martirosyan ( armenia ) 16.57,O I-PER I-PER O I-LOC O O
+6. sigurd njerve ( norway ) 16.41,O I-PER I-PER O I-LOC O O
+7. carlos calado ( portugal ) 16.31,O I-PER I-PER O I-LOC O O
+8. charles-michael friedek ( germany ) 16.12,O I-PER I-PER O I-LOC O O
+women 's javelin,O O O
+1. tanja damaske ( germany ) 66.60 metres,O I-PER I-PER O I-LOC O O O
+2. trine hattesta ( norway ) 65.12,O I-PER I-PER O I-LOC O O
+3. isel lopez ( cuba ) 65.10,O I-PER I-PER O I-LOC O O
+4. heli rantanen ( finland ) 62.78,O I-PER I-PER O I-LOC O O
+5. louise mcpaul ( australia ) 62.06,O I-PER I-PER O I-LOC O O
+6. xiomara rivero ( cuba ) 61.94,O I-PER I-PER O I-LOC O O
+7. natalya shikolen ( belarus ) 60.74,O I-PER I-PER O I-LOC O O
+8. rita ramaunaskaite ( lithuania ) 60.74,O I-PER I-PER O I-LOC O O
+men 's 4x100 relay jesse owens memorial race,O O O O I-PER I-PER O O
+"1. donovan bailey ( canada ) , michael johnson ( u.s. ) , frankie",O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O I-PER
+"fredericks ( namibia ) , linford christie ( britain ) 38.87 seconds",I-PER O I-LOC O O I-PER I-PER O I-LOC O O O
+"2. michael green ( jamaica ) , osmond ezinwa ( nigeria ) , oeji aliu",O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O I-PER I-PER
+"( nigeria ) , davidson ezinwa ( nigeria ) 38.87",O I-LOC O O I-PER I-PER O I-LOC O O
+"3. peter karlsson ( sweden ) , falk balzer ( germany ) , george",O I-PER I-PER O I-LOC O O I-PER I-PER O I-LOC O O I-PER
+"panayiotopoulos ( greece ) , florian schwarthoff ( germany ) 39.93",I-PER O I-LOC O O I-PER I-PER O I-LOC O O
+-docstart-,O
+"soccer - three standard liege players banned , club fined .",O O O I-ORG I-ORG O O O O O O
+geneva 1996-08-30,I-LOC O
+"uefa came down heavily on belgian club standard liege on friday for "" disgraceful behaviour "" in an intertoto final match against karlsruhe of germany .",I-ORG O O O O I-MISC O I-ORG I-ORG O O O O O O O O O I-MISC O O O I-ORG O I-LOC O
+"the belgian club were fined 25,000 swiss francs ( $ 20,850 ) for unsporting conduct and captain guy hellers banned for seven games .",O I-MISC O O O O I-MISC O O O O O O O O O O I-PER I-PER O O O O O
+he was sent off for insulting the referee and then urged his team mates to protest .,O O O O O O O O O O O O O O O O O
+"roberto bisconti will be sidelined for six euro ties after pushing the referee in the back as he protested about a karlsruhe goal , while didier ernst was banned for four matches for a verbal attack soon after bisconti was also dismissed .",I-PER I-PER O O O O O I-MISC O O O O O O O O O O O O O I-ORG O O O I-PER I-PER O O O O O O O O O O O I-PER O O O O
+karlsruhe won the august 20 match 3-1 thanks to two late goals .,I-ORG O O O O O O O O O O O O
+they took the tie 3-2 on aggregate and qualified for the uefa cup .,O O O O O O O O O O O I-MISC I-MISC O
+-docstart-,O
+"athletics - harrison , edwards to meet in sarajevo .",O O I-PER O I-PER O O O I-LOC O
+monte carlo 1996-08-30,I-LOC I-LOC O
+olympic champion kenny harrison and world record holder jonathan edwards will both take part in a triple jump competition at the solidarity meeting for sarajevo on september 9 .,I-MISC O I-PER I-PER O O O O I-PER I-PER O O O O O O O O O O O I-MISC I-MISC I-MISC I-MISC O O O O
+"the international amateur athletic federation said on friday that a schedule reshuffle had allowed organisers to hold a men 's triple jump as well as the women 's long jump on the "" one usable runway at the war-devastated "" kosevo stadium .",O I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O I-LOC O O
+atlanta games silver medal winner edwards has called on other leading athletes to take part in the sarajevo meeting -- a goodwill gesture towards bosnia as it recovers from the war in the balkans -- two days after the grand prix final in milan .,I-MISC I-MISC O O O I-PER O O O O O O O O O O O I-LOC O O O O O O I-LOC O O O O O O O O I-LOC O O O O O O O O O I-LOC O
+"edwards was quoted as saying : "" what type of character do we show by going to the iaaf grand prix final in milan where there is a lot of money to make but refusing to make the trip to sarajevo as a humanitarian gesture ? """,I-PER O O O O O O O O O O O O O O O O O I-MISC I-MISC I-MISC I-MISC O I-LOC O O O O O O O O O O O O O O O O I-LOC O O O O O O
+-docstart-,O
+soccer - baratelli to coach nice .,O O I-PER O O I-ORG O
+"nice , france 1996-08-30",I-LOC O I-LOC O
+"former international goalkeeper dominique baratelli is to coach struggling french first division side nice , the club said on friday .",O O O I-PER I-PER O O O O I-MISC O O O I-ORG O O O O O O O
+"baratelli , who played for nice and paris st germain , takes over from albert emon who was fired on thursday after nice 's home defeat to guingamp 2-1 in the league .",I-PER O O O O I-ORG O I-ORG I-ORG I-ORG O O O O I-PER I-PER O O O O O O I-ORG O O O O I-ORG O O O O O
+nice have been unable to win any of their four league matches played this season and are lying a lowly 18th in the table .,I-ORG O O O O O O O O O O O O O O O O O O O O O O O O
+-docstart-,O
+soccer - milan 's lentini moves to atalanta .,O O I-ORG O I-PER O O I-ORG O
+milan 1996-08-30,I-LOC O
+"former italian international winger gianluigi lentini , transferred to milan in 1992 for what was believed to be a world record sum , has been loaned to serie a club atalanta for a year , newspapers reported on friday .",O I-MISC O O I-PER I-PER O O O I-ORG O O O O O O O O O O O O O O O O O I-MISC I-MISC O I-ORG O O O O O O O O O
+"the gazzetta dello sport said the deal would cost atalanta around $ 600,000 .",O I-ORG I-ORG I-ORG O O O O O I-ORG O O O O
+"lentini , 27 , joined milan from torino in a $ 12 million deal that many have speculated involved far more money changing hands and which has subsequently been investigated by magistrates for alleged financial irregularities .",I-PER O O O O I-ORG O I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the player suffered severe head injuries in a near-fatal car crash the following year and has since struggled to regain the form that made him a hero in turin .,O O O O O O O O O O O O O O O O O O O O O O O O O O O O I-LOC O
+"the move to bergamo-based atalanta reunites lentini , who fell out with ex-milan coach fabio capello last season , with his former coach at torino , emiliano mondonico .",O O O I-MISC I-ORG O I-PER O O O O O I-MISC O I-PER I-PER O O O O O O O O I-ORG O I-PER I-PER O
+-docstart-,O
+cricket - sri lanka beat australia by four wickets .,O O I-LOC I-LOC O I-LOC O O O O
+colombo 1996-08-30,I-LOC O
+sri lanka beat australia by four wickets in the third match of the singer world series one-day ( 50 overs ) cricket tournament on friday .,I-LOC I-LOC O I-LOC O O O O O O O O O I-MISC I-MISC I-MISC O O O O O O O O O O
+"scores : australia 228-9 in 50 overs , sri lanka 232-6 in 45.5 overs .",O O I-LOC O O O O O I-LOC I-LOC O O O O O
+-docstart-,O
+cricket - australia v sri lanka scoreboard .,O O I-LOC O I-LOC I-LOC O O
+colombo 1996-08-30,I-LOC O
+scoreboard of the third singer,O O O O I-MISC
+world series cricket match between australia and sri lanka on,I-MISC I-MISC O O O I-LOC O I-LOC I-LOC O
+friday :,O O
+australia,I-LOC
+m. waugh c and b jayasuriya 50,I-PER I-PER O O O I-PER O
+m. slater run out 9,I-PER I-PER O O O
+s. law c tillekeratne b dharmasena 13,I-PER I-PER O I-PER O I-PER O
+m. bevan c vaas b chandana 56,I-PER I-PER O I-PER O I-PER O
+s. waugh b muralitharan 22,I-PER I-PER O I-PER O
+r. ponting not out 46,I-PER I-PER O O O
+d. lehmann st kaluwitharana b chandana 2,I-PER I-PER O I-PER O I-PER O
+i. healy c ranatunga b muralitharan 8,I-PER I-PER O I-PER O I-PER O
+j. gillespie st kaluwitharana b chandana 6,I-PER I-PER O I-PER O I-PER O
+d. fleming c chandana b jayasuriya 3,I-PER I-PER O I-PER O I-PER O
+g. mcgrath not out 8,I-PER I-PER O O O
+extras ( lb-3 nb-2 ) 5,O O O O O O
+"total ( nine wickets , 50 overs ) 228",O O O O O O O O O
+fall of wickets : 1-21 2-52 3-97 4-149 5-157 6-163 7-178,O O O O O O O O O O O
+8-198 9-203 .,O O O
+"bowling : vass 7-0-29-0 , de silva 4-0-25-0 , dharmasena",O O I-PER O O I-PER I-PER O O I-PER
+"9-0-49-1 , muralitharan 10-0-41-2 , jayasuriya 10-0-43-2 , chandana",O O I-PER O O I-PER O O I-PER
+10-0-38-3 .,O O
+sri lanka,I-LOC I-LOC
+s. jayasuriya c healy b fleming 44,I-PER I-PER O I-PER O I-PER O
+r. kaluwitharana b s. waugh 8,I-PER I-PER O I-PER I-PER O
+a. gurusinha run out 16,I-PER I-PER O O O
+a.de silva not out 83,I-PER I-PER O O O
+a. ranatunga lbw b fleming 0,I-PER I-PER O O I-PER O
+h. tillekeratne lbw b fleming 1,I-PER I-PER O O I-PER O
+r. mahanama b mcgrath 50,I-PER I-PER O I-PER O
+u. chandana not out 14,I-PER I-PER O O O
+extras ( lb-3 nb-6 w-7 ) 16,O O O O O O O
+"total ( six wickets , 45.5 overs ) 232",O O O O O O O O O
+fall of wickets : 1-22 2-78 3-78 4-78 5-81 6-196 .,O O O O O O O O O O O
+"did not bat : dharmasena , vaas , muralitharan .",O O O O I-PER O I-PER O I-PER O
+"bowling : s. waugh 5-1-36-1 , law 2-0-23-0 , mcgrath 9.5-0-44-1 ,",O O I-PER I-PER O O I-PER O O I-PER O O
+"fleming 8-1-26-3 , gillespie 6-0-27-0 , m. waugh 5-0-29-0 , lehmann",I-PER O O I-PER O O I-PER I-PER O O I-PER
+"6-0-26-0 , bevan 4-0-18-0 .",O O I-PER O O
+man of the match : aravinda de silva,O O O O O I-PER I-PER I-PER
+"next series match : india v zimbabwe , september 1 .",O O O O I-LOC O I-LOC O O O O
+-docstart-,O
+cricket - australia 228-9 in 50 overs v sri lanka .,O O I-LOC O O O O O I-LOC I-LOC O
+colombo 1996-08-30,I-LOC O
+australia scored 228 for nine wickets in their 50 overs against sri lanka in the third day-night limited overs match of the singer world series tournament on friday .,I-LOC O O O O O O O O O O I-LOC I-LOC O O O O O O O O O I-MISC I-MISC I-MISC O O O O
+-docstart-,O
+cricket - australia win toss and choose to bat .,O O I-LOC O O O O O O O
+colombo 1996-08-30,I-LOC O
+australia won the toss and,I-LOC O O O O
+elected to bat against sri lanka in the third day-night limited,O O O O I-LOC I-LOC O O O O O
+overs cricket match in the singer world series tournament on,O O O O O I-MISC O O O O
+friday .,O O
+teams :,O O
+"australia - ian healy ( captain ) , michael bevan , damien",I-LOC O I-PER I-PER O O O O I-PER I-PER O I-PER
+"flemming , jason gillespie , stuart law , glenn mcgrath , ricky",I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER O I-PER
+"ponting , michael slater , darren lehmann , mark waugh , steve",I-PER O I-PER I-PER O I-PER I-PER O I-PER I-PER O I-PER
+waugh .,I-PER O
+"sri lanka - arjuna ranatunga ( captain ) , sanath jayasuriya ,",I-LOC I-LOC O I-PER I-PER O O O O I-PER I-PER O
+"romesh kaluwitharana , asanka gurusinha , aravinda de silva ,",I-PER I-PER O I-PER I-PER O I-PER I-PER I-PER O
+"hashan tillekeratne , roshan mahanama , kumara dharmasena ,",I-PER I-PER O I-PER I-PER O I-PER I-PER O
+"chaminda vaas , muthiah muralitharan , upul chandana .",I-PER I-PER O I-PER I-PER O I-PER I-PER O
+-docstart-,O
+romania comelf h1 profit rise below target .,I-LOC I-ORG O O O O O O
+bucharest 1996-08-30,I-LOC O
+"romanian listed state engineer comelf said it almost doubled six-month output , with net profit rising by 33 percent to 1.069 billion lei .",I-MISC O O O I-ORG O O O O O O O O O O O O O O O O O O O
+"but the company complained inflation and the artificially high rate of the leu cut profit margins on exports , keeping profits well below its forecast of 1.4 billion lei .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"comelf 's six-month output rose to 4,378 tonnes of equipment from 2,684 tonnes in the equivalent period in 1995 , the company report to the bucharest stock exchange showed .",I-ORG O O O O O O O O O O O O O O O O O O O O O O O O I-LOC O O O O
+"comelf , based in the central transylvanian town of bistrita , manufactures water purification equipment , machinery for the thermal power sector and other equipment .",I-ORG O O O O O I-MISC O O I-LOC O O O O O O O O O O O O O O O O
+""" in the first six months of 1996 we concentrated on increasing the volume of our output and exports in particular and improving the quality of our products , "" the report said .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"from january to june comelf exported 59 percent of its output , up from 37.3 percent in the same period last year .",O O O O I-ORG O O O O O O O O O O O O O O O O O O
+the company said higher than anticipated inflation and rising raw materials and wage costs also hit profits .,O O O O O O O O O O O O O O O O O O
+"year-on-year inflation , initially estimated at 20 percent in december , was 33.8 percent in june , higher than a revised end-year forecast of 30 percent .",O O O O O O O O O O O O O O O O O O O O O O O O O O O
+the 12 month figure quickened to 40.3 percent in july .,O O O O O O O O O O O
+"the leu currency has slipped only gradually this year , and is currently quoted at an official rate of 3,162 to the dollar , well below the 3,550 retail price that exporters say is more realistic .",O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+"-- luli popescu , bucharest newsroom 40-1 3120264",O I-PER I-PER O I-ORG I-ORG O O
+-docstart-,O
+polish nbp refrains from reverse repo operation .,I-MISC O O O O O O O
+warsaw 1996-08-30,I-LOC O
+the national bank of poland,O I-ORG I-ORG I-ORG I-ORG
+"refrained from staging a reverse repo operation on friday , the",O O O O O O O O O O O
+bank said .,O O O
+-- warsaw newsroom +48 22 653 9700,O I-ORG I-ORG O O O O
+-docstart-,O

@@ -1,0 +1,8 @@
+{
+  "dataset_path": "../data/dataset.pkl",
+  "lookup_path": "../data/lookup.pkl",
+  "embed_dir": "../result/embed",
+  "embed_word_path": "../result/embed/word.npy",
+  "embed_char_path": "../result/embed/char.npy",
+  "embed_pos_path": "../result/embed/pos.npy"
+}

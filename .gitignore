@@ -1,0 +1,10 @@
+# Pycharm
+.idea/
+
+#
+__pycache__/
+
+# Project
+try.py
+/result/ckpt
+/result/event
