@@ -15,7 +15,7 @@ There are several NER models implemented and trained in this program:
 - BiGRU-CRF
 
 <div align="center">
-    <img src="./images/bigru_attn_crf.png" width="50%" alt="architecture" />
+    <img src="./images/bigru_attn_crf.png" width="30%" alt="architecture" />
 </div>
 
 where the attention is the same block to the self-attention layer in Transformer.
@@ -35,24 +35,27 @@ and to fixed / trainable random initialized embeddings.
 - Word + PoS
 
 <div align="center">
-    <img src="./images/embedding.png" width="50%" alt="embedding" />
+    <img src="./images/embedding.png" width="60%" alt="embedding" />
 </div>
 
 ## Experimental Result
 
-### NER results for different models.
+NER results for different models.
+
 <div align="center">
-    <img src="./images/t_model.png" width="30%" alt="model" />
+    <img src="./images/t_model.png" width="25%" alt="model" />
 </div>
 
-### NER results for different input embeddings.
+NER results for different input embeddings.
+
 <div align="center">
-    <img src="./images/t_embed.png" width="30%" alt="embed" />
+    <img src="./images/t_embed.png" width="25%" alt="embed" />
 </div>
 
-### Comparison of different attention strategies.
+Comparison of different attention strategies.
+
 <div align="center">
-    <img src="./images/t_attn.png" width="30%" alt="attn" />
+    <img src="./images/t_attn.png" width="25%" alt="attn" />
 </div>
 
 
