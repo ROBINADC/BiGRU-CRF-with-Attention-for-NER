@@ -1,10 +1,10 @@
 # BiGRU-CRF-with-Attention-for-NER
 
-Train multiple models for named entity recognition on toy dataset.
+Train multiple models for named entity recognition (NER) on a toy dataset.
 
-> This project is derived from an assignment of an NLP unit of study.
+> This project is adapted from an assignment of an NLP course.
 > The task aims at comparing the performance of different input embeddings 
-> as well as different stacks of layers on named entity recognition (NER).
+> as well as different stacks of layers on NER task.
 
 There are several NER models implemented and trained in this program:
 
@@ -18,16 +18,17 @@ There are several NER models implemented and trained in this program:
     <img src="./images/bigru_attn_crf.png" width="30%" alt="architecture" />
 </div>
 
-where the attention is the same block to the self-attention layer in Transformer.
-4 different ways of computing the attentions are considered:
+The implementation of the self-attention layer is similar to the one in the Transformer.
+
+Four different ways of computing the attentions are compared:
 
 - Dot-product
 - Scaled Dot-product
 - Cosine
 - General
 
-For feature embeddings, 4 different combinations are tested, which are compared to each other
-and to fixed / trainable random initialized embeddings.
+For feature embeddings, four different combinations are tested, which are compared to each other
+and to the fixed / trainable random initialized embeddings.
 
 - Word
 - Word + Character
@@ -38,30 +39,25 @@ and to fixed / trainable random initialized embeddings.
     <img src="./images/embedding.png" width="60%" alt="embedding" />
 </div>
 
-## Experimental Result
 
-NER results for different models.
+## Experimental Results
 
-<div align="center">
-    <img src="./images/t_model.png" width="25%" alt="model" />
-</div>
+NER results for different models:
 
-NER results for different input embeddings.
+<img src="./images/t_model.png" width="25%" alt="model" />
 
-<div align="center">
-    <img src="./images/t_embed.png" width="25%" alt="embed" />
-</div>
+NER results for different input embeddings:
 
-Comparison of different attention strategies.
+<img src="./images/t_embed.png" width="25%" alt="embed" />
 
-<div align="center">
-    <img src="./images/t_attn.png" width="25%" alt="attn" />
-</div>
+Comparison of different attention strategies:
+
+<img src="./images/t_attn.png" width="25%" alt="attn" />
 
 
 ## Dependencies
 
-I run my codes on Python 3.7 in following environment:
+Models are run on Python 3.7 in following environment:
 ```
 nltk==3.4.5
 numpy==1.18.1
@@ -73,7 +69,6 @@ tensorboard==2.0.0
 torchvision==0.6.0
 ```
 
-Notice that `tensorboard` is NOT the latest version.
 
 ## Files
 
@@ -112,7 +107,7 @@ Notice that `tensorboard` is NOT the latest version.
 
 ## Usage
 
-**Check ner/arguments.py first** (Default settings should be executable)
+**Check ner/arguments.py first** (the default settings should be fine)
 
 ### Data Processing
 
